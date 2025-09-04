@@ -39,7 +39,7 @@ export default function Footer() {
       {/* Background with subtle glow */}
       <div className={`absolute inset-0`}>
         {/* Subtle red glow from bottom center */}
-        <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1/3 h-1/2 bg-gradient-to-t from-[#E62D0C]/10 to-transparent opacity-50"></div>
+        {/* <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-1/3 h-1/2 bg-gradient-to-t from-[#E62D0C]/10 to-transparent opacity-50"></div> */}
       </div>
 
       {/* Content */}
